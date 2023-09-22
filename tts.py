@@ -35,8 +35,8 @@ if __name__ == "__main__":
     while True:
         query = takeCmd().lower()
         if 'jarvis' in query:
-            print("Hi baby!")
-            speak("Hi baby!")
+            print("Hi!")
+            speak("Hi !")
 
 
 
